@@ -1,0 +1,16 @@
+﻿Build started 9/23/2018 3:09:29 PM.
+     1>Project "C:\Users\vk0018\Documents\Visual Studio 2012\Projects\PayRoll_App\PayRoll_App\PayRoll_App.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\PayRoll_App.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt PayRoll_AppDlg.cpp
+         PayRoll_AppDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vk0018\Documents\Visual Studio 2012\Projects\PayRoll_App\Debug\PayRoll_App.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\vk0018\Documents\Visual Studio 2012\Projects\PayRoll_App\Debug\PayRoll_App.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vk0018\Documents\Visual Studio 2012\Projects\PayRoll_App\Debug\PayRoll_App.lib" /MACHINE:X86 Debug\PayRoll_App.res
+         Debug\PayRoll_App.obj
+         Debug\PayRoll_AppDlg.obj
+         Debug\stdafx.obj
+         PayRoll_App.vcxproj -> C:\Users\vk0018\Documents\Visual Studio 2012\Projects\PayRoll_App\Debug\PayRoll_App.exe
+     1>Done Building Project "C:\Users\vk0018\Documents\Visual Studio 2012\Projects\PayRoll_App\PayRoll_App\PayRoll_App.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.56
